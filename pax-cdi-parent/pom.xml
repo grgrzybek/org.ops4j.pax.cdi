@@ -30,7 +30,7 @@
         <weld.api.version>1.2.0.Beta1</weld.api.version>
         <weld.version>1.2.0.Beta1</weld.version>
         <weld2.version>2.2.5.Final</weld2.version>
-        <xbean.version>4.1</xbean.version>
+        <xbean.version>3.18</xbean.version>
 
         <pax.cdi.wiki.url>http://team.ops4j.org/wiki/display/paxcdi/</pax.cdi.wiki.url>
     </properties>
