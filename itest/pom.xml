@@ -8,8 +8,8 @@
     <parent>
         <groupId>org.ops4j.pax.cdi</groupId>
         <artifactId>pax-cdi-parent</artifactId>
-        <version>0.11.0-SNAPSHOT</version>
-        <relativePath>../pom</relativePath>
+        <version>0.11.0</version>
+        <relativePath>../pax-cdi-parent</relativePath>
     </parent>
 
     <groupId>org.ops4j.pax.cdi</groupId>

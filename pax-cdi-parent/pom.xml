@@ -23,9 +23,9 @@
         <pax.exam.version>4.3.0</pax.exam.version>
         <pax.jdbc.version>0.3.0</pax.jdbc.version>
         <pax.jpa.version>0.3.0</pax.jpa.version>
-        <pax.swissbox.version>1.8.0</pax.swissbox.version>
-        <pax.url.version>2.2.0</pax.url.version>
-        <pax.web.version>4.0.0</pax.web.version>
+        <pax.swissbox.version>1.8.2</pax.swissbox.version>
+        <pax.url.version>2.4.0</pax.url.version>
+        <pax.web.version>3.2.5</pax.web.version>
         <slf4j.version>1.6.4</slf4j.version>
         <weld.api.version>1.2.0.Beta1</weld.api.version>
         <weld.version>1.2.0.Beta1</weld.version>
